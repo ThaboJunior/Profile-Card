@@ -13,5 +13,5 @@ It displays a personal profile with an image, name, role, social media links, an
 ## Technologies Used
 - **HTML5** for structure  
 - **CSS3** for styling
-
+##
 ## Link to website: https://thabos-profile-card.netlify.app/
