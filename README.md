@@ -7,9 +7,11 @@ It displays a personal profile with an image, name, role, social media links, an
 - Responsive profile card design  
 - Profile image with circular styling  
 - Name and title section  
-- Social media and contact icons (GitHub, WhatsApp, LinkedIn, Portfolio)  
+- Social media and contact icons (GitHub, Email, LinkedIn, Portfolio)  
 - Short bio/description  
 
 ## Technologies Used
 - **HTML5** for structure  
-- **CSS3** for styling  
+- **CSS3** for styling
+
+Link to website: https://thabos-profile-card.netlify.app/
